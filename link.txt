@@ -1,5 +1,6 @@
 admin/
 admin.php/
+admincms/
 administrator/
 admin1/
 admin2/
